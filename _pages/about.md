@@ -2,16 +2,17 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: 
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>220-653</p>
+    <p>Seoul National University</p>
+    <p>1 Gwanak-ro, Gwanak-gu</p>
+    <p>Seoul 08826, Republic of Korea</p>
 
 news: true # includes a list of news items
 latest_posts: true # includes a list of the newest posts
@@ -19,8 +20,12 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Master's student in computer science and engineering, Seoul National University
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Hi, I'm Tae Hoon! I am currently a Master's student in computer science and engineering at Seoul National University. I am also a member of  [Bio & Health Informatics Lab](https://bhi-kimlab.github.io/) advised by professor Sun Kim. I completed my Bachelor's degree in Electrical and Computer Enginnering from [UM-SJTU Joint Insitute](https://www.ji.sjtu.edu.cn/) in 2021.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research interests involve **investigating precision medicine in cancer with AI.** I am particularly interested in exploring the application of Machine Learning and Deep Learning techniques in predicting cancer progression and response to treatment. I believe that these advanced technologies have the potential to revolutionize our current understanding and approach towards cancer.
+
+In my current research, I am focusing on understanding the relationship between the drug response of cancer cell lines and DNA methylation. Beyond cancer cell lines, I am also actively exploring other promising data sources that can enrich our insights into cancer.
+
+CV is attached!
