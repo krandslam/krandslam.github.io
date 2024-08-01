@@ -9,14 +9,14 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>220-653</p>
+    <p>301-554-3</p>
     <p>Seoul National University</p>
     <p>1 Gwanak-ro, Gwanak-gu</p>
     <p>Seoul 08826, Republic of Korea</p>
 
 news: true # includes a list of news items
-latest_posts: true # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+latest_posts: false # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
@@ -26,6 +26,6 @@ Hi, I'm Tae Hoon! I am currently a Master's student in computer science and engi
 
 My research interests involve **investigating precision medicine in cancer with AI.** I am particularly interested in exploring the application of Machine Learning and Deep Learning techniques in predicting cancer progression and response to treatment. I believe that these advanced technologies have the potential to revolutionize our current understanding and approach towards cancer.
 
-In my current research, I am focusing on understanding the relationship between the drug response of cancer cell lines and DNA methylation. Beyond cancer cell lines, I am also actively exploring other promising data sources that can enrich our insights into cancer.
+In my current research, I am focusing on bridging the gap between cancer cell lines and patient-derived tumor xenografts to improve drug response predictions in clinical settings. I am also actively exploring other promising data sources to enhance our understanding of various diseases. This includes a keen interest in leveraging AI to develop precision medicine approaches that can offer more personalized and effective treatments for patients.
 
 CV is attached!
