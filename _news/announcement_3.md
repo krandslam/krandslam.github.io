@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our work is accepted in *Proceeding of 2024 Korea Computer Congress*. [Project details](https://krandslam.github.io/projects/1_project/) [PDF](./Web-based%20Exploratory%20Data%20Mining%20System%20for%20Analy.pdf)
+Our work is accepted in *Proceeding of 2024 Korea Computer Congress*. [Project details](https://krandslam.github.io/projects/1_project/) [PDF](https://krandslam.github.io/assets/pdf/Web-based%20Exploratory%20Data%20Mining%20System%20for%20Analy.pdf)
