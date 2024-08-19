@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Korea Computer Congress (KCC) 2024 Poster session accepted. [Project details](https://krandslam.github.io/projects/1_project/)
+Our work is accepted in *Proceeding of 2024 Korea Computer Congress*. [Project details](https://krandslam.github.io/projects/1_project/) [PDF](./Web-based%20Exploratory%20Data%20Mining%20System%20for%20Analy.pdf)

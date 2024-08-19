@@ -26,6 +26,6 @@ Hi, I'm Tae Hoon! I am currently a Master's student in computer science and engi
 
 My research interests involve **investigating precision medicine in cancer with AI.** I am particularly interested in exploring the application of Machine Learning and Deep Learning techniques in predicting cancer progression and response to treatment. I believe that these advanced technologies have the potential to revolutionize our current understanding and approach towards cancer.
 
-In my current research, I am focusing on bridging the gap between cancer cell lines and patient-derived tumor xenografts to improve drug response predictions in clinical settings. I am also actively exploring other promising data sources to enhance our understanding of various diseases. This includes a keen interest in leveraging AI to develop precision medicine approaches that can offer more personalized and effective treatments for patients.
+In my current research, I am focusing on bridging the gap between *in vitro* and *in vivo* datasets through bulk tumor deconvolution to improve drug response predictions in clinical settings. I am also actively exploring other promising data sources to enhance our understanding of various diseases. I am also interested in applying generative models for drug discovery to find potential drug candidates.
 
-CV is attached!
+[CV](./cv_THK_v1.pdf) is attached!
