@@ -28,4 +28,4 @@ My research interests involve **investigating precision medicine in cancer with 
 
 In my current research, I am focusing on bridging the gap between *in vitro* and *in vivo* datasets through bulk tumor deconvolution to improve drug response predictions in clinical settings. I am also actively exploring other promising data sources to enhance our understanding of various diseases. I am also interested in applying generative models for drug discovery to find potential drug candidates.
 
-[CV](https://krandslam.github.io/assets/pdf/cv_THK_v1.pdf) is attached!
+[CV](https://taehoonkweon.github.io/assets/pdf/cv_THK_v1.pdf) is attached!
