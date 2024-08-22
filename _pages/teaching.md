@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught.
+description: Teaching experience
 nav: true
 display_categories: [
     IT fundamentals for Bioinformatics (Spring 2024),
